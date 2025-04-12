@@ -15,14 +15,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
+            "heading": "Mantras You Can Wear & Sip",
+            "heading_size": "hxxl"
+          }
+        },
+        "text_7cFdD7": {
+          "type": "text",
+          "settings": {
+            "text": "Inspire your day with our curated collection of mindful apparel and accessories.",
+            "text_style": "subtitle"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop the Collection",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -33,13 +40,15 @@
       },
       "block_order": [
         "heading",
+        "text_7cFdD7",
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/HeroImage.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
         "color_scheme": "scheme-3",
