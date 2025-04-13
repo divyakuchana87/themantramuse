@@ -10,7 +10,7 @@
 {
   "current": {
     "logo": "shopify://shop_images/TheMantraMuse-Logo-Navigation.png",
-    "logo_width": 150,
+    "logo_width": 90,
     "favicon": "{{ shop.brand.logo }}",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -120,8 +120,8 @@
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
-    "predictive_search_show_vendor": true,
-    "predictive_search_show_price": true,
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": false,
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
@@ -157,7 +157,7 @@
       },
       "scheme-2": {
         "settings": {
-          "background": "#eee8df",
+          "background": "#f3f3f3",
           "background_gradient": "",
           "text": "#121212",
           "button": "#121212",
@@ -190,11 +190,11 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#606c38",
+          "background": "#334fb4",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",
-          "button_label": "#283618",
+          "button_label": "#334fb4",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
