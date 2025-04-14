@@ -395,7 +395,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".button {background: linear-gradient( to right, rgb(148, 95, 80) 0%, rgb(252, 197, 179) 50%, rgb(148, 95, 80) 100% );}"
+      ".color-scheme-2 .button {background: linear-gradient( to right, rgb(148, 95, 80) 0%, rgb(252, 197, 179) 50%, rgb(148, 95, 80) 100% );}"
     ]
   }
 }
