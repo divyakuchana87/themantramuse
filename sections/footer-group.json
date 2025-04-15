@@ -14,10 +14,19 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "brand_information_GKHp6W": {
-          "type": "brand_information",
+        "image_Pz6HV6": {
+          "type": "image",
           "settings": {
-            "show_social": false
+            "image": "shopify://shop_images/fullcolored.png",
+            "image_width": 345,
+            "alignment": "center"
+          }
+        },
+        "text_NyNDwD": {
+          "type": "text",
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
           }
         },
         "link_list_PUxL9p": {
@@ -26,32 +35,17 @@
             "heading": "Quick links",
             "menu": "footer"
           }
-        },
-        "image_Pz6HV6": {
-          "type": "image",
-          "settings": {
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
-        "text_Kab33n": {
-          "type": "text",
-          "settings": {
-            "heading": "Heading",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
-          }
         }
       },
       "block_order": [
-        "brand_information_GKHp6W",
-        "link_list_PUxL9p",
         "image_Pz6HV6",
-        "text_Kab33n"
+        "text_NyNDwD",
+        "link_list_PUxL9p"
       ],
       "custom_css": [],
       "settings": {
         "color_scheme": "scheme-5",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
         "show_social": true,

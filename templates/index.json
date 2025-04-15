@@ -62,10 +62,10 @@
       "settings": {
         "collection": "all",
         "products_to_show": 4,
-        "title": "Featured products",
+        "title": "Explore Top Products for Your Convenience.",
         "heading_size": "h1",
-        "description": "",
-        "show_description": false,
+        "description": "<p>Handcrafted products designed to enhance the spiritual experience. Elevate your mind, body, and soul with our carefully curated items.</p>",
+        "show_description": true,
         "description_style": "body",
         "columns_desktop": 4,
         "enable_desktop_slider": false,
@@ -84,10 +84,163 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "featured_product_DFyaKg": {
+      "type": "featured-product",
+      "blocks": {
+        "text_4ktB3J": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_q7hzfn": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_rDDGLr": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_zWHhJa": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_kR3exN": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_iBWnz4": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_Ambyaf": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_4ktB3J",
+        "title_q7hzfn",
+        "price_rDDGLr",
+        "variant_picker_zWHhJa",
+        "quantity_selector_kR3exN",
+        "buy_buttons_iBWnz4",
+        "share_Ambyaf"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_fefPEr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Win7rw": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h1"
+          }
+        },
+        "text_ifeeYK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At The Mantra and Muse, we believe in the power of words to inspire and uplift. Our products are designed to bring positivity into your daily life, whether you're sipping your morning coffee or heading out in your favorite tee.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_CWeLck": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Win7rw",
+        "text_ifeeYK",
+        "button_CWeLck"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/fullcolored.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "ambient",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_EqMgME": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_GEGnWy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_pXtLag": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email_form_dmf6i8": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_GEGnWy",
+        "paragraph_pXtLag",
+        "email_form_dmf6i8"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "featured_product_DFyaKg",
+    "image_with_text_fefPEr",
+    "newsletter_EqMgME"
   ]
 }
