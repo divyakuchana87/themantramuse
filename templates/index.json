@@ -47,7 +47,7 @@
         "image": "shopify://shop_images/HeroBanner.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
