@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Mantras You Can Wear & Sip",
+            "heading": "Inspired by Intuition. Worn with Love.",
             "heading_size": "hxxl"
           }
         },
         "text_7cFdD7": {
           "type": "text",
           "settings": {
-            "text": "Inspire your day with our curated collection of mindful apparel and accessories.",
+            "text": "Explore our curated collection of mindful apparel and soulful accessories.",
             "text_style": "subtitle"
           }
         },
@@ -44,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/HeroImage.png",
+        "image": "shopify://shop_images/HeroBanner3.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
@@ -118,7 +118,7 @@
         "button_CWeLck"
       ],
       "settings": {
-        "image": "shopify://shop_images/printedtshirt.png",
+        "image": "shopify://shop_images/A_flat_lay_of_printed_lifestyle_items_t-shirt_mug_tote_with_artistic_and_boho_elements_like_sketchbooks_plants_and_candles._Background_in_soft_neutral_colors..jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
