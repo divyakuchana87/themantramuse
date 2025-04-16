@@ -410,9 +410,7 @@
   display: block;
   height: auto;
   max-width: 100%;
-  width: 80%;
-  border: 2px #d8b2a7 solid;
-  border-radius: 6px;
+  width: 100%;
 }
 
 .footer-block__brand-info {
