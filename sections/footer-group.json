@@ -14,14 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "image_Pz6HV6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/printedtshirt.png",
-            "image_width": 360,
-            "alignment": "center"
-          }
-        },
         "text_NyNDwD": {
           "type": "text",
           "disabled": true,
@@ -30,25 +22,24 @@
             "subtext": "<p><em>  Spiritual. Stylish. Soulful.</em></p><p></p>"
           }
         },
+        "brand_information_M6G9xd": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        },
         "link_list_PUxL9p": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
             "menu": "footer"
           }
-        },
-        "brand_information_M6G9xd": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
         }
       },
       "block_order": [
-        "image_Pz6HV6",
         "text_NyNDwD",
-        "link_list_PUxL9p",
-        "brand_information_M6G9xd"
+        "brand_information_M6G9xd",
+        "link_list_PUxL9p"
       ],
       "custom_css": [],
       "settings": {
