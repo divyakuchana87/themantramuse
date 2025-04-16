@@ -17,8 +17,8 @@
         "image_Pz6HV6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fullcolored.png",
-            "image_width": 345,
+            "image": "shopify://shop_images/printedtshirt.png",
+            "image_width": 360,
             "alignment": "center"
           }
         },
