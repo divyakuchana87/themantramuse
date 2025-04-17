@@ -207,10 +207,39 @@
         "email_form_dmf6i8"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "174491150907eb815d": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_yQLehg": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "Stay Inspired with Us",
+            "title_color": "#121212",
+            "title_size_v2": 30,
+            "alignment": "left",
+            "margin_top": 0,
+            "margin_bottom": 52,
+            "margin_sides": 0,
+            "show_instagram_link": true,
+            "link_alignment": "center",
+            "link_color": "#905e26",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_yQLehg"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
@@ -219,6 +248,7 @@
     "featured_collection",
     "image_with_text_fefPEr",
     "collection_list_ACeJQi",
-    "newsletter_EqMgME"
+    "newsletter_EqMgME",
+    "174491150907eb815d"
   ]
 }
