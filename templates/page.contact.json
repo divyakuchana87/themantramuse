@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -16,10 +25,92 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_DwUhqK": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_D7VAHF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is The Mantra & Muse?",
+            "icon": "none",
+            "row_content": "<p>The Mantra & Muse is a mindful lifestyle brand offering printed apparel, accessories, and home goods designed to inspire intention, peace, and personal expression. All products are made-to-order and sustainably fulfilled through Printful. The products are created with high-quality materials and craftsmanship to ensure durability and longevity.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_B8HpPQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer worldwide shipping?",
+            "icon": "none",
+            "row_content": "<p>Yes! We ship globally. Our products are fulfilled and shipped via Printful, with delivery times varying by region. You’ll receive tracking info once your order ships. Our global shipping network allows us to deliver to customers around the world. We partner with Printful for efficient fulfillment and shipping services tailored to each region. For further details, visit our <a href=\"/policies/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\">Shipping Policy</a> page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Yw3Kkd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take to receive my order?",
+            "icon": "none",
+            "row_content": "<p>All items are made-to-order, which means production takes 2–7 business days. Once shipped, most orders arrive within 3–10 business days depending on your location.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Rgz3tx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are your products eco-friendly?",
+            "icon": "none",
+            "row_content": "<p>Yes! We use a print-on-demand model to reduce overproduction and textile waste. Our printing partners use eco-conscious processes and sustainably sourced materials whenever possible.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WDQjAN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I return or exchange an item?",
+            "icon": "none",
+            "row_content": "<p>As each item is custom-made, returns or exchanges for sizing issues or buyer's remorse are unavailable. If your item is damaged or misprinted, please reach out within 30 days for assistance.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JEXtza": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I stay updated on new product drops and offers?",
+            "icon": "none",
+            "row_content": "<p>Subscribe to our email list for exclusive access to new arrivals, informative content, and subscriber discounts. Sign up through the popup or at the bottom of our site!</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_D7VAHF",
+        "collapsible_row_B8HpPQ",
+        "collapsible_row_Yw3Kkd",
+        "collapsible_row_Rgz3tx",
+        "collapsible_row_WDQjAN",
+        "collapsible_row_JEXtza"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "collapsible_content_DwUhqK"
   ]
 }
