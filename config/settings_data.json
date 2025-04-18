@@ -108,12 +108,12 @@
     "sale_badge_color_scheme": "scheme-4",
     "sold_out_badge_color_scheme": "scheme-3",
     "brand_headline": "<em>The Mantra & Muse</em>",
-    "brand_description": "<p>At The Mantra & Muse, blending soulful creativity with mindful design. Products offer positivity, presence, and charm. Crafted goods rooted in spiritual style and nature, always a little magic in every detail.</p><p><strong>Email Us: </strong>themantramuseshop@gmail.com<br/></p>",
+    "brand_description": "<p>At The Mantra & Muse, blending soulful creativity with mindful design. Products offer positivity, presence, and charm. Crafted goods rooted in spiritual style and nature, always a little magic in every detail.</p><p><strong>Email us at: themantramuse2025@gmail.com</strong><br/><br/>or reachreach outout us via the following Social Media. Feel free to connect with us on social media for updates and promotions.</p>",
     "brand_image": "shopify://shop_images/noBgWhite.png",
     "brand_image_width": 250,
     "social_facebook_link": "https://facebook.com/themantraandmuse",
     "social_instagram_link": "https://www.instagram.com/themantraandmuse/",
-    "social_youtube_link": "https://www.youtube.com/themantraandmuse/",
+    "social_youtube_link": "https://www.youtube.com/@MantraMuseStudio",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
@@ -122,11 +122,11 @@
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
-    "predictive_search_show_price": false,
+    "predictive_search_show_price": true,
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
-    "show_cart_note": false,
+    "show_cart_note": true,
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-1",
     "sections": {
@@ -161,11 +161,6 @@
       },
       "1710008633607995074": {
         "type": "shopify://apps/tydal-reviews/blocks/app-embed/5f785e18-66cc-4519-8181-565d1cce1705",
-        "disabled": false,
-        "settings": {}
-      },
-      "pagefly-page-builder": {
-        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
         "disabled": false,
         "settings": {}
       }
