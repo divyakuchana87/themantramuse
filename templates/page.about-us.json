@@ -146,10 +146,94 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
-        "section_color_scheme": "scheme-3",
-        "color_scheme": "scheme-1",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "ss_feature_1_NA7UDU": {
+      "type": "ss-feature-1",
+      "blocks": {
+        "image_FWWwwT": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Mindfulness First",
+            "feature_text": "<p>Every design is rooted in calm, reflection, and positive energy. Whether it’s a quote or a cozy texture — it’s made to slow you down and lift you up.</p>",
+            "feature_image": "shopify://shop_images/Mindful_style_ba414249-3b17-4e36-9cd8-5de444f6d061.png",
+            "feature_url": "https://section.store/",
+            "hide_image": false
+          }
+        },
+        "image_eLGUiL": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Creativity with Soul",
+            "feature_text": "<p>Our designs blend art and purpose — featuring original illustrations, affirmations, and meaningful symbols that speak to your spirit.</p>",
+            "feature_image": "shopify://shop_images/Creativity_with_Soul.png",
+            "feature_url": "",
+            "hide_image": false
+          }
+        },
+        "image_nbC3fy": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Conscious & Sustainable",
+            "feature_text": "<p>We use print-on-demand production to avoid overproduction and waste. Every item is made-to-order, just for you, with love and care.</p>",
+            "feature_image": "shopify://shop_images/planet-earth_1598196.png",
+            "feature_url": "",
+            "hide_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_FWWwwT",
+        "image_eLGUiL",
+        "image_nbC3fy"
+      ],
+      "settings": {
+        "feature_row": 3,
+        "feature_row_mobile": 1,
+        "feature_gap": 20,
+        "feature_gap_mobile": 20,
+        "feature_padding_horizontal": 0,
+        "feature_padding_vertical": 0,
+        "feature_radius": 16,
+        "feature_border_thickness": 0,
+        "feature_shadow": false,
+        "feature_heading_custom": false,
+        "feature_heading_font": "josefin_sans_n4",
+        "feature_heading_size": 14,
+        "feature_heading_size_mobile": 12,
+        "feature_heading_height": 130,
+        "feature_heading_mt": 8,
+        "feature_text_custom": false,
+        "feature_text_font": "josefin_sans_n4",
+        "feature_text_size": 12,
+        "feature_text_size_mobile": 12,
+        "feature_text_height": 130,
+        "feature_text_mt": 4,
+        "feature_icon_size": 42,
+        "feature_icon_size_mobile": 42,
+        "feature_bg": "#fbf8f5",
+        "feature_border_color": "#000000",
+        "feature_shadow_color": "#000000",
+        "feature_heading_color": "#905e26",
+        "feature_text_color": "#000000",
+        "feature_icon_color": "#905e26",
+        "background_color": "#fbf8f5",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "collection_list_RpL9hp": {
@@ -194,7 +278,7 @@
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -204,6 +288,7 @@
     "main",
     "ss_parallax_banner_mjxmfn",
     "image_with_text_JeRenN",
+    "ss_feature_1_NA7UDU",
     "collection_list_RpL9hp"
   ]
 }
