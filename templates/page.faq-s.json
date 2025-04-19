@@ -144,6 +144,15 @@
         "collapsible_row_nnLMHy": {
           "type": "collapsible_row",
           "settings": {
+            "heading": "Where do you ship from?",
+            "icon": "truck",
+            "row_content": "<p>All orders are fulfilled on demand and shipped from trusted global production partners to reduce waste and delivery times. </p><p>Our global production partners ensure that orders are fulfilled efficiently and sustainably.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NJrdKb": {
+          "type": "collapsible_row",
+          "settings": {
             "heading": "How long will it take to get my order?",
             "icon": "truck",
             "row_content": "<p>Each order is custom-made and usually ships within 2–7 business days. Shipping durations may differ based on the destination. For more details, check our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">Shipping Policy</a> Page.</p>",
@@ -180,6 +189,7 @@
       },
       "block_order": [
         "collapsible_row_nnLMHy",
+        "collapsible_row_NJrdKb",
         "collapsible_row_NaY4aY",
         "collapsible_row_EdXQty",
         "collapsible_row_NJFMTM"
