@@ -135,12 +135,19 @@
           "settings": {
             "collection": "mugs-water-bottles-drinkware"
           }
+        },
+        "featured_collection_x7YfnP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hats-apparels"
+          }
         }
       },
       "block_order": [
         "featured_collection_GAmeNj",
         "featured_collection_wehhmy",
-        "featured_collection_cHkHfD"
+        "featured_collection_cHkHfD",
+        "featured_collection_x7YfnP"
       ],
       "settings": {
         "title": "Collections",
@@ -168,7 +175,7 @@
         "text_nK7HNU": {
           "type": "text",
           "settings": {
-            "text": "<p>At The Mantra & Muse, we believe your style should tell your story — one filled with intention, inspiration, and soul.Born from a love of mindful living and creative self-expression, we design apparel and accessories that go beyond the surface. From cozy tees to printed mugs and totes, every product is created to remind you of your inner peace, purpose, and personal magic. Our products are meticulously crafted to embody the essence of mindful living and creative self-expression, empowering you to embrace your unique style and purpose.</p>",
+            "text": "<p>At The Mantra and Muse, we believe in the power of words to inspire and uplift. Our products are designed to bring positivity into your daily life, whether you're sipping your morning coffee or heading out in your favorite tee. Our carefully curated selection of products encompasses a variety of inspirational quotes and phrases to uplift your spirits.</p>",
             "text_style": "body"
           }
         }
