@@ -105,13 +105,23 @@
             "row_content": "<p>Our prints are made using high-quality, water-based inks designed to last. Proper care helps extend their vibrancy. The high-quality, water-based inks used in our prints have been specifically designed for longevity.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_WAgAyX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are your products sustainable?",
+            "icon": "leaf",
+            "row_content": "<p>Through utilizing print-on-demand, we prevent overproduction and minimize waste. We prioritize eco-friendly materials and ethical fulfillment methods.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_gqa8zD",
         "collapsible_row_YBXifi",
         "collapsible_row_ikpjtR",
-        "collapsible_row_Jbgxbn"
+        "collapsible_row_Jbgxbn",
+        "collapsible_row_WAgAyX"
       ],
       "settings": {
         "caption": "",
@@ -196,7 +206,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "What is your return policy?",
-            "icon": "stopwatch",
+            "icon": "return",
             "row_content": "<p>Since our items are made-to-order, we do not accept returns for buyer’s remorse or incorrect sizing.<br/><br/>However, if your item is damaged, defective, or misprinted, please contact us within 30 days, and we’ll make it right. For more details, check our <a href=\"/policies/refund-policy\" title=\"Refund Policy\">Return Policy</a> page.</p>",
             "page": ""
           }
@@ -205,7 +215,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Do you offer exchanges for sizes?",
-            "icon": "stopwatch",
+            "icon": "return",
             "row_content": "<p>We don’t offer automatic size exchanges, but we’re happy to assist if there’s an issue. Please <a href=\"/pages/contact\" title=\"Contact Us\">contact us</a> before placing your order if you need help with sizing. </p><p>Our team of experts is here to help address any sizing concerns you may have. While we don't offer automatic size exchanges, we are more than happy to assist you in finding the perfect fit. Please reach out to us before finalizing your order for personalized assistance.</p>",
             "page": ""
           }
@@ -214,7 +224,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Who pays for return shipping?",
-            "icon": "stopwatch",
+            "icon": "return",
             "row_content": "<p>If a return is approved due to product defects or fulfillment errors, we’ll cover the return or replacement. For all other issues, the customer is responsible for shipping. The process for requesting a return due to product defects or fulfillment errors is straightforward and hassle-free.</p>",
             "page": ""
           }
@@ -246,13 +256,54 @@
         "collapsible_row_3dEpCi": {
           "type": "collapsible_row",
           "settings": {
+            "heading": "What payment methods do you accept?",
+            "icon": "price_tag",
+            "row_content": "<p>We accept all major credit/debit cards Stripe Our secure payment system ensures that you can conveniently use all major credit/debit cards through Stripe.</p>",
+            "page": "contact"
+          }
+        },
+        "collapsible_row_jntJWp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I change or cancel my order?",
+            "icon": "price_tag",
+            "row_content": "<p>As our products are made-to-order, we begin fulfillment quickly. Please reach out within a few hours of ordering — we’ll do our best, but changes can’t be guaranteed. Since our products are customized for each order, our fulfillment process begins promptly. We recommend contacting us within a few hours of placing your order. While we will make every effort to accommodate changes, they may not always be possible.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_3dEpCi",
+        "collapsible_row_jntJWp"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Orders & Payments",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_w3T6Jp": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_C4tffk": {
+          "type": "collapsible_row",
+          "settings": {
             "heading": "How can I contact you?",
             "icon": "silhouette",
             "row_content": "<p>You can email us anytime at <a title=\"Email\">themantramuse2025@gmail.com</a> — we usually respond within 24–48 hours.</p>",
             "page": "contact"
           }
         },
-        "collapsible_row_jntJWp": {
+        "collapsible_row_qkAFEC": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Do you offer phone support?",
@@ -261,7 +312,7 @@
             "page": ""
           }
         },
-        "collapsible_row_wammFB": {
+        "collapsible_row_cxhJbj": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Where can I follow you on social media?",
@@ -272,9 +323,9 @@
         }
       },
       "block_order": [
-        "collapsible_row_3dEpCi",
-        "collapsible_row_jntJWp",
-        "collapsible_row_wammFB"
+        "collapsible_row_C4tffk",
+        "collapsible_row_qkAFEC",
+        "collapsible_row_cxhJbj"
       ],
       "settings": {
         "caption": "",
@@ -298,6 +349,7 @@
     "collapsible_content_LazAPJ",
     "collapsible_content_38rgAB",
     "collapsible_content_e9t4qi",
-    "collapsible_content_xL6yrT"
+    "collapsible_content_xL6yrT",
+    "collapsible_content_w3T6Jp"
   ]
 }
