@@ -67,10 +67,10 @@
         "padding_bottom": 36
       }
     },
-    "collapsible_content_38rgAB": {
+    "collapsible_content_LazAPJ": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_nnLMHy": {
+        "collapsible_row_gqa8zD": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Are your designs original?",
@@ -79,7 +79,7 @@
             "page": ""
           }
         },
-        "collapsible_row_NaY4aY": {
+        "collapsible_row_YBXifi": {
           "type": "collapsible_row",
           "settings": {
             "heading": "What kind of materials do you use?",
@@ -88,7 +88,7 @@
             "page": ""
           }
         },
-        "collapsible_row_EdXQty": {
+        "collapsible_row_ikpjtR": {
           "type": "collapsible_row",
           "settings": {
             "heading": "How should I care for my clothing?",
@@ -97,7 +97,7 @@
             "page": ""
           }
         },
-        "collapsible_row_NJFMTM": {
+        "collapsible_row_Jbgxbn": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Will the print fade over time?",
@@ -108,10 +108,132 @@
         }
       },
       "block_order": [
+        "collapsible_row_gqa8zD",
+        "collapsible_row_YBXifi",
+        "collapsible_row_ikpjtR",
+        "collapsible_row_Jbgxbn"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "About Our Products",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_38rgAB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_nnLMHy": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long will it take to get my order?",
+            "icon": "box",
+            "row_content": "<p>Each order is custom-made and usually ships within 2–7 business days. Shipping durations may differ based on the destination. For more details, check our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">Shipping Policy</a> Page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NaY4aY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship internationally?",
+            "icon": "box",
+            "row_content": "<p>Yes, we ship worldwide! Shipping costs and delivery times are shown at checkout.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_EdXQty": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I track my order?",
+            "icon": "box",
+            "row_content": "<p>You’ll receive a shipping confirmation with a tracking link as soon as your order is fulfilled. The tracking link will provide real-time updates on the status of your order delivery.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NJFMTM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why did I receive my order in multiple packages?",
+            "icon": "box",
+            "row_content": "<p>We work with multiple fulfillment centers. If your order contains multiple items, they may be shipped separately. This allows us to deliver your items more efficiently and reduce shipping times.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
         "collapsible_row_nnLMHy",
         "collapsible_row_NaY4aY",
         "collapsible_row_EdXQty",
         "collapsible_row_NJFMTM"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Shipping",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_e9t4qi": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_KEdTFY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are your designs original?",
+            "icon": "leaf",
+            "row_content": "<p>Yes! All our designs are thoughtfully created by artists and curated by The Mantra & Muse to reflect positivity, spirituality, and self-expression. <br/>All designs within our <a href=\"https://themantramuse.com/collections/all\" title=\"All Products\">collection</a> are meticulously crafted by skilled artists and selected by The Mantra & Muse to embody themes of positivity, spirituality, and self-expression.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JEzxAc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What kind of materials do you use?",
+            "icon": "leaf",
+            "row_content": "<p>We use soft, high-quality cotton blends and eco-conscious materials wherever possible. Each product page lists exact fabric details. Customers can feel confident in the fabric choices we make, as each product page provides detailed information on the materials used.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pYax8N": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How should I care for my clothing?",
+            "icon": "leaf",
+            "row_content": "<p>We recommend machine-washing on cold and air-drying or tumble-drying on low to preserve the print and fabric. For best results, avoid using bleach or harsh detergents when washing this item.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JNDGia": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will the print fade over time?",
+            "icon": "leaf",
+            "row_content": "<p>Our prints are made using high-quality, water-based inks designed to last. Proper care helps extend their vibrancy. The high-quality, water-based inks used in our prints have been specifically designed for longevity.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_KEdTFY",
+        "collapsible_row_JEzxAc",
+        "collapsible_row_pYax8N",
+        "collapsible_row_JNDGia"
       ],
       "settings": {
         "caption": "",
@@ -132,6 +254,8 @@
   "order": [
     "main",
     "collapsible_content_C3gahp",
-    "collapsible_content_38rgAB"
+    "collapsible_content_LazAPJ",
+    "collapsible_content_38rgAB",
+    "collapsible_content_e9t4qi"
   ]
 }
