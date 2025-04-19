@@ -186,36 +186,45 @@
         "collapsible_row_PLHKDA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What is The Mantra & Muse?",
+            "icon": "none",
+            "row_content": "<p>The Mantra & Muse is a soulful lifestyle brand offering printed apparel and accessories designed to inspire mindful living, creativity, and intention. Their unique designs incorporate elements of nature and spirituality, creating a harmonious blend of style and meaning.</p>",
             "page": ""
           }
         },
         "collapsible_row_gwkWGr": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Where do you ship from?",
+            "icon": "none",
+            "row_content": "<p>All orders are fulfilled on demand and shipped from trusted global production partners to reduce waste and delivery times. </p><p>Our global production partners ensure that orders are fulfilled efficiently and sustainably.</p>",
             "page": ""
           }
         },
         "collapsible_row_ABCJpE": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "How long will it take to get my order?",
+            "icon": "none",
+            "row_content": "<p>Each order is custom-made and usually ships within 2–7 business days. Shipping durations may differ based on the destination. For more details, check our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">Shipping Policy</a> Page.</p>",
             "page": ""
           }
         },
         "collapsible_row_Wzwn7M": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What is your return policy?",
+            "icon": "none",
+            "row_content": "<p>Since our items are made-to-order, we do not accept returns for buyer’s remorse or incorrect sizing.<br/><br/>However, if your item is damaged, defective, or misprinted, please contact us within 30 days, and we’ll make it right. For more details, check our <a href=\"/policies/refund-policy\" title=\"Refund Policy\">Return Policy</a> page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jzkBiA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are your products sustainable?",
+            "icon": "none",
+            "row_content": "<p>Through utilizing print-on-demand, we prevent overproduction and minimize waste. We prioritize eco-friendly materials and ethical fulfillment methods.</p>",
             "page": ""
           }
         }
@@ -224,11 +233,12 @@
         "collapsible_row_PLHKDA",
         "collapsible_row_gwkWGr",
         "collapsible_row_ABCJpE",
-        "collapsible_row_Wzwn7M"
+        "collapsible_row_Wzwn7M",
+        "collapsible_row_jzkBiA"
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "Frequently Asked Questions",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -239,6 +249,33 @@
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_Nny66L": {
+      "type": "rich-text",
+      "blocks": {
+        "button_gbgBkE": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All",
+            "button_link": "shopify://pages/faqs",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_gbgBkE"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 40
       }
     },
     "174491150907eb815d": {
@@ -278,6 +315,7 @@
     "image_with_text_fefPEr",
     "collection_list_ACeJQi",
     "collapsible_content_FNWnHd",
+    "rich_text_Nny66L",
     "174491150907eb815d"
   ]
 }
