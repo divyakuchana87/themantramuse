@@ -16,6 +16,36 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_36FaW4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_A438kQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Information",
+            "heading_size": "h1"
+          }
+        },
+        "text_6ig6CT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For all inquiries, please reach out to us:</p><ol><li><strong>Business Name:</strong> The Mantra & Muse</li><li><strong>Email:</strong> <a title=\"Email\">themantramuse2025@gmail.com</a></li><li><strong>Website:</strong> <a href=\"https://themantramuse.com\">https://themantramuse.com</a></li></ol><p>📞 Phone support is currently unavailable. Please email us and we will respond within 1–2 business days.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_A438kQ",
+        "text_6ig6CT"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -110,6 +140,7 @@
   },
   "order": [
     "main",
+    "rich_text_36FaW4",
     "form",
     "collapsible_content_DwUhqK"
   ]
