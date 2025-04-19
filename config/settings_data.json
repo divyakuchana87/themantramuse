@@ -108,11 +108,12 @@
     "sale_badge_color_scheme": "scheme-4",
     "sold_out_badge_color_scheme": "scheme-3",
     "brand_headline": "<em>The Mantra & Muse</em>",
-    "brand_description": "<p>At The Mantra & Muse, blending soulful creativity with mindful design. Products offer positivity, presence, and charm. Crafted goods rooted in spiritual style and nature, always a little magic in every detail.</p><p><strong>Email Us: </strong>themantramuseshop@gmail.com<br/><br/><strong>Connect Us:</strong><br/><br/></p>",
-    "brand_image_width": 100,
+    "brand_description": "<p>At The Mantra & Muse, we blend soulful creativity with mindful design. Products offer positivity, presence, and charm—crafted goods rooted in spiritual style and nature, always a little magic in every detail.</p><p><strong>Email us or connect with us at: </strong>themantramuse2025@gmail.com</p>",
+    "brand_image": "shopify://shop_images/noBgWhite.png",
+    "brand_image_width": 250,
     "social_facebook_link": "https://facebook.com/themantraandmuse",
     "social_instagram_link": "https://www.instagram.com/themantraandmuse/",
-    "social_youtube_link": "https://www.youtube.com/themantraandmuse/",
+    "social_youtube_link": "https://www.youtube.com/@MantraMuseStudio",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
@@ -121,11 +122,11 @@
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
-    "predictive_search_show_price": false,
+    "predictive_search_show_price": true,
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
-    "show_cart_note": false,
+    "show_cart_note": true,
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-1",
     "sections": {
@@ -143,6 +144,37 @@
       }
     },
     "content_for_index": [],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#000000",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
+      },
+      "1710008633607995074": {
+        "type": "shopify://apps/tydal-reviews/blocks/app-embed/5f785e18-66cc-4519-8181-565d1cce1705",
+        "disabled": false,
+        "settings": {}
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {}
+      },
+      "4981902369724952902": {
+        "type": "shopify://apps/vo-product-options/blocks/embed-block/430cbd7b-bd20-4c16-ba41-db6f4c645164",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -162,7 +194,7 @@
           "text": "#121212",
           "button": "#905e26",
           "button_label": "#ffffff",
-          "secondary_button_label": "#bdaa79",
+          "secondary_button_label": "#af7644",
           "shadow": "#121212"
         }
       },
@@ -394,8 +426,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      ".color-scheme-2 .button {background: linear-gradient( to right, rgb(148, 95, 80) 0%, rgb(252, 197, 179) 50%, rgb(148, 95, 80) 100% );}"
-    ]
+    "custom_css": []
   }
 }
