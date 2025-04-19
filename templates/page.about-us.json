@@ -11,13 +11,192 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "ss_parallax_banner_mjxmfn": {
+      "type": "ss-parallax-banner",
+      "blocks": {
+        "heading_XQyFch": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>Welcome to The Mantra & Muse</h1>",
+            "heading_custom": false,
+            "heading_font": "lato_n7",
+            "heading_size": 40,
+            "heading_size_mobile": 30,
+            "heading_height": 130,
+            "heading_mt": 0,
+            "heading_color": "#FFFFFF"
+          }
+        },
+        "text_gLmgG4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spritual, Stylish, Soulful</p>",
+            "text_custom": false,
+            "text_font": "montserrat_i7",
+            "text_size": 18,
+            "text_size_mobile": 16,
+            "text_height": 150,
+            "text_mt": 16,
+            "text_color": "#FFFFFF"
+          }
+        },
+        "button_JKKtw6": {
+          "type": "button",
+          "settings": {
+            "button": "SHOP NOW",
+            "button_url": "",
+            "button_custom": false,
+            "button_font": "josefin_sans_n4",
+            "button_size": 14,
+            "button_size_mobile": 14,
+            "button_height": 100,
+            "button_padding_vertical": 16,
+            "button_padding_vertical_mobile": 16,
+            "button_padding_horizontal": 50,
+            "button_padding_horizontal_mobile": 50,
+            "button_radius": 100,
+            "button_border_thickness": 1,
+            "button_mt": 16,
+            "button_gap": 28,
+            "button_ellipse": false,
+            "button_shadow": false,
+            "button_style": "outline",
+            "button_color": "#FFFFFF",
+            "button_hover_color": "#FFFFFF",
+            "button_bg_color": "#000000",
+            "button_bg_hover_color": "#000000",
+            "button_border_color": "#000000",
+            "button_border_hover_color": "#000000",
+            "button_shadow_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XQyFch",
+        "text_gLmgG4",
+        "button_JKKtw6"
+      ],
+      "settings": {
+        "parallax": true,
+        "parallax_mobile": false,
+        "banner_height": "adapt_first",
+        "banner_fixed_height": 600,
+        "banner_fixed_height_mobile": 500,
+        "overlay": 0.2,
+        "content_maxwidth": 65,
+        "content_maxwidth_mobile": 100,
+        "content_horizontal_position": "center",
+        "content_horizontal_position_mobile": "center",
+        "content_vertical_position": "center",
+        "content_vertical_position_mobile": "center",
+        "content_padding_vertical": 32,
+        "content_padding_vertical_mobile": 20,
+        "content_padding_horizontal": 20,
+        "content_padding_horizontal_mobile": 20,
+        "overlay_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "collection_list_RpL9hp": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_GAmeNj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "t-shirts-hats-apparel"
+          }
+        },
+        "featured_collection_wehhmy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "totes-backpacks"
+          }
+        },
+        "featured_collection_cHkHfD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mugs-water-bottles-drinkware"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_GAmeNj",
+        "featured_collection_wehhmy",
+        "featured_collection_cHkHfD"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_JeRenN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xznadm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h1"
+          }
+        },
+        "text_nK7HNU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At The Mantra & Muse, we believe your style should tell your story — one filled with intention, inspiration, and soul.Born from a love of mindful living and creative self-expression, we design apparel and accessories that go beyond the surface. From cozy tees to printed mugs and totes, every product is created to remind you of your inner peace, purpose, and personal magic. Our products are meticulously crafted to embody the essence of mindful living and creative self-expression, empowering you to embrace your unique style and purpose.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xznadm",
+        "text_nK7HNU"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "ss_parallax_banner_mjxmfn",
+    "collection_list_RpL9hp",
+    "image_with_text_JeRenN"
   ]
 }
