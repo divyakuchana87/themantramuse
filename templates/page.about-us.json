@@ -289,22 +289,22 @@
         "heading_qadpRt": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Have a question, suggestion, or just want to say hello?",
             "heading_size": "h1"
           }
         },
         "text_9KP8qm": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>We'd love to hear from you. Reach out anytime — we're here to help and connect.</p>"
           }
         },
         "button_Yn88f9": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
+            "button_label": "Get in Touch",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
