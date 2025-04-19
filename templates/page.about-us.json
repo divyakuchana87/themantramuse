@@ -282,6 +282,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_4nGVLY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qadpRt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_9KP8qm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_Yn88f9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qadpRt",
+        "text_9KP8qm",
+        "button_Yn88f9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1745054669759f6a9b": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_mGwkte": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "Stay Inspired with Us",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "left",
+            "instafeed_margin_top": 36,
+            "instafeed_margin_bottom": 36,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": true,
+            "link_alignment": "center",
+            "link_color": "#905e26",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_mGwkte"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -289,6 +360,8 @@
     "ss_parallax_banner_mjxmfn",
     "image_with_text_JeRenN",
     "ss_feature_1_NA7UDU",
-    "collection_list_RpL9hp"
+    "collection_list_RpL9hp",
+    "rich_text_4nGVLY",
+    "1745054669759f6a9b"
   ]
 }
