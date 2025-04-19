@@ -115,6 +115,43 @@
         "lazy": true
       }
     },
+    "image_with_text_JeRenN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xznadm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h1"
+          }
+        },
+        "text_nK7HNU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At The Mantra and Muse, we believe in the power of words to inspire and uplift. Our products are designed to bring positivity into your daily life, whether you're sipping your morning coffee or heading out in your favorite tee. Our carefully curated selection of products encompasses a variety of inspirational quotes and phrases to uplift your spirits.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xznadm",
+        "text_nK7HNU"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collection_list_RpL9hp": {
       "type": "collection-list",
       "blocks": {
@@ -150,7 +187,7 @@
         "featured_collection_x7YfnP"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "Our Collections",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 4,
@@ -161,49 +198,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_JeRenN": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_xznadm": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Story",
-            "heading_size": "h1"
-          }
-        },
-        "text_nK7HNU": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At The Mantra and Muse, we believe in the power of words to inspire and uplift. Our products are designed to bring positivity into your daily life, whether you're sipping your morning coffee or heading out in your favorite tee. Our carefully curated selection of products encompasses a variety of inspirational quotes and phrases to uplift your spirits.</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_xznadm",
-        "text_nK7HNU"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
     "ss_parallax_banner_mjxmfn",
-    "collection_list_RpL9hp",
-    "image_with_text_JeRenN"
+    "image_with_text_JeRenN",
+    "collection_list_RpL9hp"
   ]
 }
