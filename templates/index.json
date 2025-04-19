@@ -136,12 +136,6 @@
     "collection_list_ACeJQi": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_e3GyLM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "mugs-water-bottles-drinkware"
-          }
-        },
         "featured_collection_NkEtLq": {
           "type": "featured_collection",
           "settings": {
@@ -154,6 +148,12 @@
             "collection": "totes-backpacks"
           }
         },
+        "featured_collection_e3GyLM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mugs-water-bottles-drinkware"
+          }
+        },
         "featured_collection_mNAHKh": {
           "type": "featured_collection",
           "settings": {
@@ -162,9 +162,9 @@
         }
       },
       "block_order": [
-        "featured_collection_e3GyLM",
         "featured_collection_NkEtLq",
         "featured_collection_Mb8Pen",
+        "featured_collection_e3GyLM",
         "featured_collection_mNAHKh"
       ],
       "settings": {
