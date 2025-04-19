@@ -45,42 +45,11 @@
             "text_mt": 16,
             "text_color": "#FFFFFF"
           }
-        },
-        "button_JKKtw6": {
-          "type": "button",
-          "settings": {
-            "button": "SHOP NOW",
-            "button_url": "",
-            "button_custom": false,
-            "button_font": "josefin_sans_n4",
-            "button_size": 14,
-            "button_size_mobile": 14,
-            "button_height": 100,
-            "button_padding_vertical": 16,
-            "button_padding_vertical_mobile": 16,
-            "button_padding_horizontal": 50,
-            "button_padding_horizontal_mobile": 50,
-            "button_radius": 100,
-            "button_border_thickness": 1,
-            "button_mt": 16,
-            "button_gap": 28,
-            "button_ellipse": false,
-            "button_shadow": false,
-            "button_style": "outline",
-            "button_color": "#FFFFFF",
-            "button_hover_color": "#FFFFFF",
-            "button_bg_color": "#000000",
-            "button_bg_hover_color": "#000000",
-            "button_border_color": "#000000",
-            "button_border_hover_color": "#000000",
-            "button_shadow_color": "#000000"
-          }
         }
       },
       "block_order": [
         "heading_XQyFch",
-        "text_gLmgG4",
-        "button_JKKtw6"
+        "text_gLmgG4"
       ],
       "settings": {
         "parallax": true,
@@ -88,7 +57,8 @@
         "banner_height": "adapt_first",
         "banner_fixed_height": 600,
         "banner_fixed_height_mobile": 500,
-        "overlay": 0.2,
+        "image": "shopify://shop_images/makingprocess.jpg",
+        "overlay": 0.4,
         "content_maxwidth": 65,
         "content_maxwidth_mobile": 100,
         "content_horizontal_position": "center",
@@ -138,6 +108,7 @@
         "text_nK7HNU"
       ],
       "settings": {
+        "image": "shopify://shop_images/desktop-thermo-press-printing-images-fabric-black-tshirt_281858-2844.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
