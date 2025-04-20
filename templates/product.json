@@ -48,7 +48,7 @@
         "custom_liquid_eDbEHg": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class='delivery_date_shortcode'></div>"
+            "custom_liquid": "<div class=\"pm-o-custom-position\"></div>"
           }
         },
         "description": {
