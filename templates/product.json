@@ -45,6 +45,10 @@
             "show_gift_card_recipient": true
           }
         },
+        "trustz_countdown_timer_product_BjqCTc": {
+          "type": "shopify://apps/trustz/blocks/countdown-timer-product/539d151e-77d2-4b39-b20d-fbce59dc78c7",
+          "settings": {}
+        },
         "custom_liquid_eDbEHg": {
           "type": "custom_liquid",
           "settings": {
@@ -86,6 +90,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "trustz_countdown_timer_product_BjqCTc",
         "custom_liquid_eDbEHg",
         "description",
         "share",
