@@ -173,6 +173,11 @@
         "type": "shopify://apps/vo-product-options/blocks/embed-block/430cbd7b-bd20-4c16-ba41-db6f4c645164",
         "disabled": false,
         "settings": {}
+      },
+      "7902831097370503076": {
+        "type": "shopify://apps/delivery-date-eta/blocks/estimated-delivery-days/d8155dd1-6598-4174-aaeb-cbcf85a857bc",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
