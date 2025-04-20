@@ -174,8 +174,8 @@
         "disabled": false,
         "settings": {}
       },
-      "7902831097370503076": {
-        "type": "shopify://apps/delivery-date-eta/blocks/estimated-delivery-days/d8155dd1-6598-4174-aaeb-cbcf85a857bc",
+      "15629340337820184097": {
+        "type": "shopify://apps/plex-delivery-estimation-date/blocks/app-embed/1a5aaae6-8b06-46f6-9403-07c6c0d75c2e",
         "disabled": false,
         "settings": {}
       }
