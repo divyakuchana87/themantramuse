@@ -73,6 +73,10 @@
             "image_ratio": "square",
             "enable_quick_add": false
           }
+        },
+        "trustz_trust_badge_fJzeVq": {
+          "type": "shopify://apps/trustz/blocks/trust-badge/539d151e-77d2-4b39-b20d-fbce59dc78c7",
+          "settings": {}
         }
       },
       "block_order": [
@@ -85,7 +89,8 @@
         "custom_liquid_eDbEHg",
         "description",
         "share",
-        "complementary_xDd6ra"
+        "complementary_xDd6ra",
+        "trustz_trust_badge_fJzeVq"
       ],
       "settings": {
         "enable_sticky_info": true,

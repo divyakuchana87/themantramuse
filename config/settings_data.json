@@ -178,6 +178,11 @@
         "type": "shopify://apps/plex-delivery-estimation-date/blocks/app-embed/1a5aaae6-8b06-46f6-9403-07c6c0d75c2e",
         "disabled": false,
         "settings": {}
+      },
+      "11158620501380966596": {
+        "type": "shopify://apps/trustz/blocks/trustz/539d151e-77d2-4b39-b20d-fbce59dc78c7",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
