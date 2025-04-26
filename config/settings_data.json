@@ -188,6 +188,11 @@
         "type": "shopify://apps/sized-size-charts/blocks/sizechart-appembed/20f2f56d-9b9b-4a65-b814-16722417f65a",
         "disabled": false,
         "settings": {}
+      },
+      "9227748197609970840": {
+        "type": "shopify://apps/pin-it-pinterest-save-button/blocks/app-embed/b4ccbe83-a934-440a-a7cb-4c563c1a8dc3",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
