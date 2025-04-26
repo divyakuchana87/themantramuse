@@ -11,6 +11,22 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "ss_back_to_top_button_M4MtdB": {
+      "type": "ss-back-to-top-button",
+      "name": "SS - Back to top button",
+      "settings": {
+        "hide_on_mobile": false,
+        "show_when_precent_of_page": 30,
+        "pos": "right",
+        "bg_color": "#F4F2F2",
+        "border_color": "#CEC5C5",
+        "arrow_color": "#333333",
+        "button_size": 54,
+        "arrow_size": 30,
+        "horizontal_dst_to_edge": 20,
+        "vertical_dst_to_edge": 20
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -33,9 +49,9 @@
             "form_id": "433156",
             "text_color": "#fbf8f5",
             "button_background_color": "#bdaa79",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
             "text_alignment": "center",
             "form_alignment": "center",
             "padding_top": 0,
@@ -68,6 +84,7 @@
     }
   },
   "order": [
+    "ss_back_to_top_button_M4MtdB",
     "footer"
   ]
 }

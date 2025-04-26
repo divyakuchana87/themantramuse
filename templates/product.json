@@ -12,18 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "icon_with_text_WiEiTP": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "vertical",
-            "icon_1": "return",
-            "heading_1": "Back to {{ product.metafields.custom.product_catagory.value }}",
-            "icon_2": "none",
-            "heading_2": "",
-            "icon_3": "none",
-            "heading_3": ""
-          }
-        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -103,7 +91,6 @@
         }
       },
       "block_order": [
-        "icon_with_text_WiEiTP",
         "vendor",
         "title",
         "price",
