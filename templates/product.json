@@ -38,9 +38,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "mp_size_chart_mp_inline_button_nkWHdc": {
-          "type": "shopify://apps/mp-size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
-          "settings": {}
+        "sized_size_charts_sizechart_block_e7mGVK": {
+          "type": "shopify://apps/sized-size-charts/blocks/sizechart-block/20f2f56d-9b9b-4a65-b814-16722417f65a",
+          "settings": {
+            "display_type": "popup",
+            "sizechart_open_btn_text": "Size Chart"
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -93,7 +96,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "mp_size_chart_mp_inline_button_nkWHdc",
+        "sized_size_charts_sizechart_block_e7mGVK",
         "buy_buttons",
         "trustz_countdown_timer_product_BjqCTc",
         "custom_liquid_eDbEHg",
