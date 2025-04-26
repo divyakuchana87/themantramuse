@@ -38,6 +38,10 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "mp_size_chart_mp_inline_button_nkWHdc": {
+          "type": "shopify://apps/mp-size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -89,6 +93,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "mp_size_chart_mp_inline_button_nkWHdc",
         "buy_buttons",
         "trustz_countdown_timer_product_BjqCTc",
         "custom_liquid_eDbEHg",
