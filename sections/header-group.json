@@ -17,19 +17,50 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "link": ""
+            "text": "Welcome to The Mantra & Muse!  Where positivity, creativity, and soulful living meet.",
+            "link": "shopify://pages/about-us"
+          }
+        },
+        "announcement_mhV79K": {
+          "type": "announcement",
+          "settings": {
+            "text": "Explore Inspiring Styles for Men!",
+            "link": "shopify://collections/mens-clothing"
+          }
+        },
+        "announcement_GHi8C8": {
+          "type": "announcement",
+          "settings": {
+            "text": "Find Your Muse: Women's Collection Awaits!",
+            "link": "shopify://collections/womens-clothing"
+          }
+        },
+        "announcement_WPtWpn": {
+          "type": "announcement",
+          "settings": {
+            "text": "Sip in Style – Shop our Drinkware!",
+            "link": "shopify://collections/mugs-water-bottles-drinkware"
+          }
+        },
+        "announcement_nKj9ME": {
+          "type": "announcement",
+          "settings": {
+            "text": "Carry Positivity Everywhere – Discover our Bags!",
+            "link": "shopify://collections/totes-backpacks"
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_mhV79K",
+        "announcement_GHi8C8",
+        "announcement_WPtWpn",
+        "announcement_nKj9ME"
       ],
-      "disabled": true,
       "settings": {
         "auto_rotate": true,
         "change_slides_speed": 5,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "show_line_separator": true,
         "show_social": false,
         "enable_country_selector": false,
