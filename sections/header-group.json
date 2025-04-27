@@ -35,6 +35,13 @@
             "link": "shopify://collections/womens-clothing"
           }
         },
+        "announcement_FKgGXM": {
+          "type": "announcement",
+          "settings": {
+            "text": "Spark Little Smiles – Shop Our Kids Collection!",
+            "link": "shopify://collections/kids-youth-clothing"
+          }
+        },
         "announcement_WPtWpn": {
           "type": "announcement",
           "settings": {
@@ -54,6 +61,7 @@
         "announcement-bar-0",
         "announcement_mhV79K",
         "announcement_GHi8C8",
+        "announcement_FKgGXM",
         "announcement_WPtWpn",
         "announcement_nKj9ME"
       ],
