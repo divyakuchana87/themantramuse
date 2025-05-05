@@ -38,16 +38,9 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "trustz_size_chart_ajJGFp": {
-          "type": "shopify://apps/trustz/blocks/size-chart/539d151e-77d2-4b39-b20d-fbce59dc78c7",
+        "panda_size_chart_app_product_block_7PcxVM": {
+          "type": "shopify://apps/panda-size-chart/blocks/app-product-block/b314ec07-fb45-49e7-be52-6a624f491710",
           "settings": {}
-        },
-        "sized_size_charts_sizechart_block_e7mGVK": {
-          "type": "shopify://apps/sized-size-charts/blocks/sizechart-block/20f2f56d-9b9b-4a65-b814-16722417f65a",
-          "settings": {
-            "display_type": "popup",
-            "sizechart_open_btn_text": "Size Chart"
-          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -100,8 +93,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "trustz_size_chart_ajJGFp",
-        "sized_size_charts_sizechart_block_e7mGVK",
+        "panda_size_chart_app_product_block_7PcxVM",
         "buy_buttons",
         "trustz_countdown_timer_product_BjqCTc",
         "custom_liquid_eDbEHg",
